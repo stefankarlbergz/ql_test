@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkmark-accent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Scrapbook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-197.000000, -263.000000)" fill-rule="nonzero" fill="#00B49D">
+            <g id="Final" transform="translate(165.000000, 258.000000)">
+                <g id="icon-checkmark-accent" transform="translate(32.000000, 4.000000)">
+                    <path d="M0.497936827,15.3112448 L10.1316253,24.9449333 C10.7955411,25.608849 11.8719612,25.608849 12.535877,24.9449333 C13.1997927,24.2810175 13.1997927,23.2045974 12.535877,22.5406816 L2.90218851,12.9069931 C2.23827274,12.2430774 1.1618526,12.2430774 0.497936827,12.9069931 C-0.165978942,13.5709089 -0.165978942,14.647329 0.497936827,15.3112448 Z" id="Line-2"></path>
+                    <path d="M23.6929212,1.79766739 L10.4818594,22.8835801 C9.98335555,23.6792322 10.2242418,24.7283528 11.0198938,25.2268567 C11.8155459,25.7253605 12.8646666,25.4844743 13.3631704,24.6888222 L26.5742322,3.60290951 C27.0727361,2.80725745 26.8318498,1.75813679 26.0361978,1.25963294 C25.2405457,0.761129093 24.191425,1.00201532 23.6929212,1.79766739 Z" id="Line-2-Copy" transform="translate(18.528046, 13.243245) rotate(2.000000) translate(-18.528046, -13.243245) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
